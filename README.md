@@ -9,6 +9,7 @@
 - 国家标准全文公开系统：http://openstd.samr.gov.cn/bzgk/gb/index
 - 国家法律法规数据库：https://flk.npc.gov.cn/index.html
 - 全国标准信息公共服务平台：http://std.samr.gov.cn/
+  - 自2017年1月1日后新发布的标准将在发布后20个工作日内公开
 
 ## 法律法规
 
@@ -18,6 +19,20 @@
 - 推荐性标准代号 GB/T
 - 指导性标准代号 GB/Z
 - 实物标准代号 GSB
+
+### 2022年发布
+
+- [GB/T 31506-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12B71EBE05397BE0A0AF33F)《信息安全技术 政务网站系统安全指南》，发布日期：2022-04-15，实施日期：2022-11-01
+- [GB/T 41387-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12A71EBE05397BE0A0AF33F)《信息安全技术 智能家居通用安全规范》，发布日期：2022-04-15，实施日期：2022-11-01
+- [GB/T 41388-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12C71EBE05397BE0A0AF33F)《信息安全技术 可信执行环境 基本安全规范》，发布日期：2022-04-15，实施日期：2022-11-01
+- [GB/T 41389-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12E71EBE05397BE0A0AF33F)《信息安全技术 SM9密码算法使用规范》，发布日期：2022-04-15，实施日期：2022-11-01
+- [GB/T 41391-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C13071EBE05397BE0A0AF33F)《信息安全技术 移动互联网应用程序（App）收集个人信息基本要求》，发布日期：2022-04-15，实施日期：2022-11-01
+- [GB/T 41400-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C09471EBE05397BE0A0AF33F)《信息安全技术 工业控制系统信息安全防护能力成熟度模型》，发布日期：2022-04-15，实施日期：2022-11-01
+- [GB/T 41479-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12471EBE05397BE0A0AF33F)《信息安全技术 网络数据处理安全要求》，发布日期：2022-04-15，实施日期：2022-11-01
+- [GB/T 20984-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C09371EBE05397BE0A0AF33F)《信息安全技术 信息安全风险评估方法》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T 20984-2007](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D786C1D3A7E05397BE0A0AB82A)《信息安全技术 信息安全风险评估规范》
+- [GB/T 29829-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12171EBE05397BE0A0AF33F)《信息安全技术 可信计算密码支撑平台功能与接口规范》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T  29829-2013](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7E974D3A7E05397BE0A0AB82A)《信息安全技术 可信计算密码支撑平台功能与接口规范》
+- [GB/T 30283-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C13471EBE05397BE0A0AF33F)《信息安全技术 信息安全服务 分类与代码》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T 30283-2013](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7EDA9D3A7E05397BE0A0AB82A)《信息安全技术 信息安全服务 分类》
+- [GB/T 31506-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12B71EBE05397BE0A0AF33F)《信息安全技术 政务网站系统安全指南》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T 31506-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D804F5D3A7E05397BE0A0AB82A)《信息安全技术 政府门户网站系统安全技术指南》
 
 ### 按体系分类
 
