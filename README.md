@@ -10,6 +10,7 @@
 - 国家法律法规数据库：https://flk.npc.gov.cn/index.html
 - 全国标准信息公共服务平台：http://std.samr.gov.cn/
   - 自2017年1月1日后新发布的标准将在发布后20个工作日内公开
+- 国家互联网信息办公室 ：http://www.cac.gov.cn/
 
 ## 法律法规
 
@@ -20,9 +21,9 @@
 - 指导性标准代号 GB/Z
 - 实物标准代号 GSB
 
-### 2022年发布
+### 2022年新发布
 
-- [GB/T 31506-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12B71EBE05397BE0A0AF33F)《信息安全技术 政务网站系统安全指南》，发布日期：2022-04-15，实施日期：2022-11-01
+- [GB/T 41574-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2134DD3D7ED96B383E61C496D6E19D58) 《信息技术 安全技术 公有云中个人信息保护实践指南》，发布日期：2022-07-11，实施日期：2023-02-01
 - [GB/T 41387-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12A71EBE05397BE0A0AF33F)《信息安全技术 智能家居通用安全规范》，发布日期：2022-04-15，实施日期：2022-11-01
 - [GB/T 41388-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12C71EBE05397BE0A0AF33F)《信息安全技术 可信执行环境 基本安全规范》，发布日期：2022-04-15，实施日期：2022-11-01
 - [GB/T 41389-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12E71EBE05397BE0A0AF33F)《信息安全技术 SM9密码算法使用规范》，发布日期：2022-04-15，实施日期：2022-11-01
@@ -33,6 +34,8 @@
 - [GB/T 29829-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12171EBE05397BE0A0AF33F)《信息安全技术 可信计算密码支撑平台功能与接口规范》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T  29829-2013](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7E974D3A7E05397BE0A0AB82A)《信息安全技术 可信计算密码支撑平台功能与接口规范》
 - [GB/T 30283-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C13471EBE05397BE0A0AF33F)《信息安全技术 信息安全服务 分类与代码》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T 30283-2013](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7EDA9D3A7E05397BE0A0AB82A)《信息安全技术 信息安全服务 分类》
 - [GB/T 31506-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12B71EBE05397BE0A0AF33F)《信息安全技术 政务网站系统安全指南》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T 31506-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D804F5D3A7E05397BE0A0AB82A)《信息安全技术 政府门户网站系统安全技术指南》
+- [GB/T 25069-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=56123482721B1AC3CEDCD3B5C022CAD8) 《信息安全技术 术语》，发布日期：2022-03-09，实施日期：2022-10-01
+- [《网络安全审查办法》](http://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm)，公布日期：2022-01-04，实施日期：2022-2-15
 
 ### 按体系分类
 
