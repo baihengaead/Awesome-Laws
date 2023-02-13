@@ -23,19 +23,37 @@
 
 ### 2022年新发布
 
-- [GB/T 41574-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2134DD3D7ED96B383E61C496D6E19D58) 《信息技术 安全技术 公有云中个人信息保护实践指南》，发布日期：2022-07-11，实施日期：2023-02-01
-- [GB/T 41387-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12A71EBE05397BE0A0AF33F)《信息安全技术 智能家居通用安全规范》，发布日期：2022-04-15，实施日期：2022-11-01
-- [GB/T 41388-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12C71EBE05397BE0A0AF33F)《信息安全技术 可信执行环境 基本安全规范》，发布日期：2022-04-15，实施日期：2022-11-01
-- [GB/T 41389-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12E71EBE05397BE0A0AF33F)《信息安全技术 SM9密码算法使用规范》，发布日期：2022-04-15，实施日期：2022-11-01
-- [GB/T 41391-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C13071EBE05397BE0A0AF33F)《信息安全技术 移动互联网应用程序（App）收集个人信息基本要求》，发布日期：2022-04-15，实施日期：2022-11-01
-- [GB/T 41400-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C09471EBE05397BE0A0AF33F)《信息安全技术 工业控制系统信息安全防护能力成熟度模型》，发布日期：2022-04-15，实施日期：2022-11-01
-- [GB/T 41479-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12471EBE05397BE0A0AF33F)《信息安全技术 网络数据处理安全要求》，发布日期：2022-04-15，实施日期：2022-11-01
-- [GB/T 20984-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C09371EBE05397BE0A0AF33F)《信息安全技术 信息安全风险评估方法》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T 20984-2007](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D786C1D3A7E05397BE0A0AB82A)《信息安全技术 信息安全风险评估规范》
-- [GB/T 29829-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12171EBE05397BE0A0AF33F)《信息安全技术 可信计算密码支撑平台功能与接口规范》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T  29829-2013](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7E974D3A7E05397BE0A0AB82A)《信息安全技术 可信计算密码支撑平台功能与接口规范》
-- [GB/T 30283-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C13471EBE05397BE0A0AF33F)《信息安全技术 信息安全服务 分类与代码》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T 30283-2013](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7EDA9D3A7E05397BE0A0AB82A)《信息安全技术 信息安全服务 分类》
-- [GB/T 31506-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12B71EBE05397BE0A0AF33F)《信息安全技术 政务网站系统安全指南》，发布日期：2022-04-15，实施日期：2022-11-01，代替标准号：[GB/T 31506-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D804F5D3A7E05397BE0A0AB82A)《信息安全技术 政府门户网站系统安全技术指南》
-- [GB/T 25069-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=56123482721B1AC3CEDCD3B5C022CAD8) 《信息安全技术 术语》，发布日期：2022-03-09，实施日期：2022-10-01
-- [《网络安全审查办法》](http://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm)，公布日期：2022-01-04，实施日期：2022-2-15
+| 标准号                                                       | 名称                                                         | 发布日期   | 实施日期   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------- |
+| [GB 42250-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=97F140EC1874D4C25CB8DC53B1D102D0) | 信息安全技术 网络安全专用产品安全技术要求                    | 2022-12-29 | 2023-07-01 |
+| [GB/T 41817-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=62C795EBF1BF0200A7161718CEFAABA8) | 信息安全技术 个人信息安全工程指南                            | 2022-10-14 | 2023-05-01 |
+| [GB/T 41819-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=BE74B9780B8C4852D62CF47F282478B6) | 信息安全技术 人脸识别数据安全要求                            | 2022-10-14 | 2023-05-01 |
+| [GB/T 41806-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=EACA08F5F077771ACE82FBE7987F40AE) | 信息安全技术 基因识别数据安全要求                            | 2022-10-14 | 2023-05-01 |
+| [GB/T 41773-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2137495F032BA9E69A753016027D271C) | 信息安全技术 步态识别数据安全要求                            | 2022-10-14 | 2023-05-01 |
+| [GB/T 41807-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=AF1E9400C0F9C7051C33F773274825EA) | 信息安全技术 声纹识别数据安全要求                            | 2022-10-14 | 2023-05-01 |
+| [GB/T 42014-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=9679A3BF5D736D7FC92FD8157AAAAC82) | 信息安全技术 网上购物服务数据安全要求                        | 2022-10-14 | 2023-05-01 |
+| [GB/T 42012-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=136B8F06A548FAE8ABB375E4C65C1E38) | 信息安全技术 即时通信服务数据安全要求                        | 2022-10-14 | 2023-05-01 |
+| [GB/T 42015-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=CEB5771DBBF05ED5EA99EBA50896537F) | 信息安全技术 网络支付服务数据安全要求                        | 2022-10-14 | 2023-05-01 |
+| [GB/T 42017-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=182AA2DDF9F1EB9A69193B9CA528BBC4) | 信息安全技术 网络预约汽车服务数据安全要求                    | 2022-10-14 | 2023-05-01 |
+| [GB/T 42016-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=20615352AC128FC97F8005161976B921) | 信息安全技术 网络音视频服务数据安全要求                      | 2022-10-14 | 2023-05-01 |
+| [GB/T 42013-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=CDBCE8F2E4CDE60A86092361A8796178) | 信息安全技术 快递物流服务数据安全要求                        | 2022-10-14 | 2023-05-01 |
+| [GB/T 41871-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4D3C5BB193E079AD54294E5845749B8F) | 信息安全技术 汽车数据处理安全要求                            | 2022-10-14 | 2023-05-01 |
+| [GB/T 39204-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=1D986D9DCCC518D19DAD9431DD76053E) | 信息安全技术 关键信息基础设施安全保护要求                    | 2022-10-12 | 2023-05-01 |
+| [GB/T 41578-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5D7C9B95DB5F844C84F2F6C08843E2BB) | 电动汽车充电系统信息安全技术要求及试验方法                   | 2022-07-11 | 2023-02-01 |
+| [GB/T 41400-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=B4272EB52F5930B214910854EFEA4C5F) | 信息安全技术 工业控制系统信息安全防护能力成熟度模型          | 2022-04-15 | 2022-11-01 |
+| [GB/T 20984-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=FDA38AB7D08A715C6B6D69DFDEABB2C0) | 信息安全技术 信息安全风险评估方法                            | 2022-04-15 | 2022-11-01 |
+| [GB/T 41574-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2134DD3D7ED96B383E61C496D6E19D58) | 信息技术 安全技术 公有云中个人信息保护实践指南               | 2022-07-11 | 2023-02-01 |
+| [GB/T 41387-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12A71EBE05397BE0A0AF33F) | 信息安全技术 智能家居通用安全规范                            | 2022-04-15 | 2022-11-01 |
+| [GB/T 41388-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12C71EBE05397BE0A0AF33F) | 信息安全技术 可信执行环境 基本安全规范                       | 2022-04-15 | 2022-11-01 |
+| [GB/T 41389-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12E71EBE05397BE0A0AF33F) | 信息安全技术 SM9密码算法使用规范                             | 2022-04-15 | 2022-11-01 |
+| [GB/T 41391-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C13071EBE05397BE0A0AF33F) | 信息安全技术 移动互联网应用程序（App）收集个人信息基本要求   | 2022-04-15 | 2022-11-01 |
+| [GB/T 41479-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12471EBE05397BE0A0AF33F) | 信息安全技术 网络数据处理安全要求                            | 2022-04-15 | 2022-11-01 |
+| [GB/T 20984-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C09371EBE05397BE0A0AF33F) | 信息安全技术 信息安全风险评估方法<br />代替标准号：[GB/T 20984-2007](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D786C1D3A7E05397BE0A0AB82A) 信息安全技术 信息安全风险评估规范 | 2022-04-15 | 2022-11-01 |
+| [GB/T 29829-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12171EBE05397BE0A0AF33F) | 信息安全技术 可信计算密码支撑平台功能与接口规范<br />代替标准号：[GB/T  29829-2013](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7E974D3A7E05397BE0A0AB82A) 信息安全技术 可信计算密码支撑平台功能与接口规范 | 2022-04-15 | 2022-11-01 |
+| [GB/T 30283-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C13471EBE05397BE0A0AF33F) | 信息安全技术 信息安全服务 分类与代码<br />代替标准号：[GB/T 30283-2013](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7EDA9D3A7E05397BE0A0AB82A) 信息安全技术 信息安全服务 分类 | 2022-04-15 | 2022-11-01 |
+| [GB/T 31506-2022](http://std.samr.gov.cn/gb/search/gbDetailed?id=DD3D95E5C12B71EBE05397BE0A0AF33F) | 信息安全技术 政务网站系统安全指南<br />代替标准号：[GB/T 31506-2015](http://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D804F5D3A7E05397BE0A0AB82A) 信息安全技术 政府门户网站系统安全技术指南 | 2022-04-15 | 2022-11-01 |
+| [GB/T 25069-2022](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=56123482721B1AC3CEDCD3B5C022CAD8) | 信息安全技术 术语                                            | 2022-03-09 | 2022-10-01 |
+|                                                              | [网络安全审查办法](http://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm) | 2022-01-04 | 2022-2-15  |
 
 ### 按体系分类
 
